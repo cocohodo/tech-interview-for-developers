@@ -14,3 +14,6 @@
 
 <br>
 
+**Commit convention rule** : yy.mm.dd - [주제] - 제목 - 상태
+
+`ex) 24.06.24 [Database] SQL / Delete`
